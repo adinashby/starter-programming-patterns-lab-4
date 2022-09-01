@@ -16,7 +16,7 @@ Note 2: You should be creating your own generic stack and use it to solve this p
 
 Example 1:
 
-Input: s = "3+2\*2"  
+Input: s = "3+2*2"  
 Output: 7
 
 Example 2:
